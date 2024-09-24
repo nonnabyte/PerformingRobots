@@ -1,6 +1,16 @@
+### 24 September 2024
+
+- We worked on the robot base. Attached the wheels by drilling holes and bolting into wood. See images attached below:
+- ![WhatsApp Image 2024-09-24 at 13 22 48 (1)](https://github.com/user-attachme![WhatsApp Image 2024-09-24 at 13 22 48](https://github.com/user-attachments/assets/2b2c3703-406f-4f54-9fcd-8b233a5580c1)
+nts/assets/432f77fa-f45e-4c8a-8125-67ca475598ab)
+![WhatsApp Image 2024-09-24 at 13 22 49](https://github.com/user-attachments/assets/6320e3fb-1969-4c3e-908a-59ec44760bce)
+
+
+
 ![sketch](https://github.com/user-attachments/assets/146b1ad4-ff54-4da3-984f-8fe78fa375fb)
 
-# Expressing Dr. Orchid's Personality Through the Robot
+### 17 September 2024
+## Expressing Dr. Orchid's Personality Through the Robot
 
 To authentically represent Dr. Orchid's character, we need to incorporate features that highlight her:
 
