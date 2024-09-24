@@ -1,9 +1,10 @@
 ### 24 September 2024
 
 - We worked on the robot base. Attached the wheels by drilling holes and bolting into wood. See images attached below:
-- ![WhatsApp Image 2024-09-24 at 13 22 48 (1)](https://github.com/user-attachme![WhatsApp Image 2024-09-24 at 13 22 48](https://github.com/user-attachments/assets/2b2c3703-406f-4f54-9fcd-8b233a5580c1)
-nts/assets/432f77fa-f45e-4c8a-8125-67ca475598ab)
-![WhatsApp Image 2024-09-24 at 13 22 49](https://github.com/user-attachments/assets/6320e3fb-1969-4c3e-908a-59ec44760bce)
+- ![WhatsApp Image 2024-09-24 at 13 22 48 (1)](https://github.com/user-attachments/assets/492bbbda-0aaa-4314-8baf-635ea091bc34)
+- ![WhatsApp Image 2024-09-24 at 13 22 48](https://github.com/user-attachments/assets/008e242f-d0a2-407f-a223-e36786f608f8)
+- ![WhatsApp Image 2024-09-24 at 13 22 49](https://github.com/user-attachments/assets/cb5b1b3b-74ef-4f0d-bfc4-6ee5c5420800)
+
 
 
 
