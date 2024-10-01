@@ -1,3 +1,10 @@
+### 1st October 2024
+
+- We continued working on the robot base last thursday 26th Sept.
+- ![WhatsApp Image 2024-10-01 at 14 03 44](https://github.com/user-attachments/assets/ef72e53c-5620-4a8b-acc9-5f098ceb7c77)
+- ![WhatsApp Image 2024-10-01 at 14 03 43](https://github.com/user-attachments/assets/07d3df89-3b89-4158-ada6-48d8834970ec)
+
+
 ### 24 September 2024
 
 - We worked on the robot base. Attached the wheels by drilling holes and bolting into wood. See images attached below:
